@@ -13,9 +13,7 @@ Theme View displays Krita's theme colors
 
 # Preview
 
-![Picture](https://raw.githubusercontent.com/EyeOdin/theme_view/master/theme_view/PREVIEWS/theme_view_dark.png)
-
-![Picture](https://raw.githubusercontent.com/EyeOdin/theme_view/master/theme_view/PREVIEWS/theme_view_light.png)
+![Picture](https://raw.githubusercontent.com/EyeOdin/theme_view/master/theme_view/PREVIEWS/theme_view_dark.png) ![Picture](https://raw.githubusercontent.com/EyeOdin/theme_view/master/theme_view/PREVIEWS/theme_view_light.png)
 
 # Support
 
