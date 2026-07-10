@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=theme_view
+X-Python-2-Compatible=false
+X-Krita-Manual=theme_view_manual.html
+Name=Theme View
+Comment=Display themes colors
